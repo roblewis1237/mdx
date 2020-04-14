@@ -20202,10 +20202,10 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier-plugin-pkg@0.4.11:
-  version "0.4.11"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-pkg/-/prettier-plugin-pkg-0.4.11.tgz#43b2c272f799bbc91a766538ac8beea5d45ce677"
-  integrity sha512-6KXwCN6gfemG29bNBVIV7OtSa9ovx28Ynq97lFL/wlG+BX0JlnNCVIIKPqPMsnTofAUjyQacTy6unrPiElo+pA==
+prettier-plugin-pkg@0.6.2:
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-pkg/-/prettier-plugin-pkg-0.6.2.tgz#981422bb68678931121575a187cec07378f98bdb"
+  integrity sha512-F2XoYBHOfj2YP8AhA+jIdSfRoA6AQ+MK8DQo/1qEGRv9Vjow7kbSViQF1JrELxlbHEOObPsUj9ThowIcGPOulg==
 
 prettier@^1.18.2:
   version "1.19.1"
